@@ -14,7 +14,7 @@ public class ConversaoFahrenheit {
 		System.out.print("Digite os graus em Farenheit: ");
 		num1 =  sc.nextInt();
 		res = ((num1 - num2) * num3)/num4;
-		System.out.println("O resultado em graus Celcius é: " + res);
+		System.out.println("O resultado em graus Celcius é: " +  res);
 		
 		
 		
